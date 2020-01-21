@@ -7,20 +7,11 @@ main:
     title: FAQ
     url: faq
   -
-    title: Dumping DSiWare
-    url: dumping-dsiware
-  -
-    title: Installing DSiWare
-    url: installing-dsiware
-  -
-    title: Installing TWiLight Menu++
-    url: installing-twilight-menu++
-  -
     title: Site Navigation
     url: site-navigation
 bottom:
   -
-    title: If you need help, ask the <a href="https://dshomebrew.serveo.net/">DS Homebrew Rocket.Chat server</a> (<a href="https://b2b38a00.ngrok.io/">alternative link</a>).
+    
 footer:
   -
     title: Source
@@ -35,15 +26,3 @@ sidebar_pages:
   -
     title: Home
     url: /
-  -
-    title: Installing Unlaunch
-    url: installing-unlaunch
-  -
-    title: Installing Unlaunch (TempNAND)
-    url: installing-unlaunch-(tempnand)
-  -
-    title: Installing HiyaCFW
-    url: installing-hiyacfw
-  -
-    title: Installing TWiLight Menu++
-    url: installing-twilight-menu++
